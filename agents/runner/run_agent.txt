@@ -1,0 +1,6 @@
+1. Load agent YAML
+2. Read user inputs
+3. Combine agent role + goal + rules
+4. Send to AI model
+5. Receive response
+6. Show formatted output
